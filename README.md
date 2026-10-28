@@ -1,2 +1,3 @@
-# Computer as a Medium
-dig3840 !!! woah!
+# This is a repo Computer as a Medium
+# Group Name:
+# Group Members:
